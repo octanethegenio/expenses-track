@@ -1,0 +1,16 @@
+[
+    { "Expense": "Rent", "Amount": 55000, "Paid": 55000, "Done": true },
+    { "Expense": "Grocery", "Amount": 20000, "Paid": 0, "Done": false },
+    { "Expense": "Wapda", "Amount": 682, "Paid": 682, "Done": true },
+    { "Expense": "IESCO", "Amount": 20916, "Paid": 0, "Done": false },
+    { "Expense": "Gas", "Amount": 1500, "Paid": 0, "Done": false },
+    { "Expense": "Nayatel", "Amount": 6760, "Paid": 6760, "Done": true },
+    { "Expense": "Committee", "Amount": 13970, "Paid": 13970, "Done": true },
+    { "Expense": "Milk", "Amount": 9100, "Paid": 9100, "Done": true },
+    { "Expense": "Transport", "Amount": 7000, "Paid": 7000, "Done": true },
+    { "Expense": "Snow", "Amount": 5489, "Paid": 5489, "Done": true },
+    { "Expense": "Mama", "Amount": 10000, "Paid": 10000, "Done": true },
+    { "Expense": "Tickets", "Amount": 4000, "Paid": 4000, "Done": true },
+    { "Expense": "Twitter", "Amount": 3700, "Paid": 3700, "Done": true }
+  ]
+  

@@ -1,0 +1,23 @@
+[
+    { "Amount": 55000, "Expense": "Rent", "Status": false },
+    { "Amount": 1000, "Expense": "Foodpanda", "Status": true },
+    { "Amount": 500, "Expense": "Foodpanda", "Status": true },
+    { "Amount": 700, "Expense": "Foodpanda", "Status": true },
+    { "Amount": 682, "Expense": "Wapda", "Status": false },
+    { "Amount": 30000, "Expense": "Atm Cash", "Status": true },
+    { "Amount": 5489, "Expense": "Snow Shopping", "Status": false },
+    { "Amount": 6760, "Expense": "Naya Tel Bill", "Status": true },
+    { "Amount": 7000, "Expense": "Baban Transport", "Status": false },
+    { "Amount": 20000, "Expense": "Mama Cash", "Status": true },
+    { "Amount": 918.14, "Expense": "Fee", "Status": true },
+    { "Amount": 3500, "Expense": "Ali Express", "Status": true },
+    { "Amount": 1000, "Expense": "Ali Express", "Status": true },
+    { "Amount": 5000, "Expense": "UBL", "Status": true },
+    { "Amount": 5000, "Expense": "Tickets", "Status": true },
+    { "Amount": 3600, "Expense": "Twitter", "Status": true },
+    { "Amount": 630, "Expense": "Mart (Pads)", "Status": true },
+    { "Amount": 3000, "Expense": "Mumtaz Committee", "Status": true },
+    { "Amount": 11000, "Expense": "Nazish Committee", "Status": true },
+    { "Amount": 20916, "Expense": "IESCO", "Status": true }
+  ]
+  
